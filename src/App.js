@@ -10,7 +10,7 @@ const App = () => {
 			<LeftSection />
 			<MainComponent />
 		        <hr />
-			<Button variant="primary" className="section3__button">+ Schedule Activity</Button>
+			<Button variant="primary" className="section_button">+ Schedule Activity</Button>
                         <BottomSection />
 		</div>
 	);
