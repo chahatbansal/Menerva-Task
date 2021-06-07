@@ -42,3 +42,23 @@
 	background: #f6f6f6;
 	border-radius: 11px;
 }
+.section_button {
+    position: absolute;
+    top: 285px;
+    left: 1100px;
+    color:white;
+    background-color: #0047B1;
+    border-radius: 9px;
+}
+
+hr {
+    position: absolute;
+    width: 572px;
+    height: 0px;
+    left: 437px;
+    top: 290px;
+    
+    /* B4 */
+    
+    border: 1px solid #939393;
+}
