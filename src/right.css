@@ -1,0 +1,140 @@
+.Right{
+    position: absolute;
+left: 46.05%;
+right: 11.64%;
+top: 5.73%;
+bottom: 69.53%;
+background: #F6F6F6;
+border-radius: 11px;
+}
+
+.Att{
+    position: absolute;
+    width: 72px;
+    height: 16px;
+    left: 50px;
+    top: 0px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+
+/* Grey shades/Hover grey */
+
+color: #515151;
+}
+.Tests{
+    position: absolute;
+width: 35px;
+height: 16px;
+left: 300px;
+top: 0px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+/* Grey shades/Hover grey */
+
+color: #515151;
+}
+
+.Hw{
+    
+    position: absolute;
+width: 67px;
+height: 16px;
+left: 500px;
+top: 0px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Grey shades/Hover grey */
+
+color: #515151;
+
+}
+.Att1{
+    position: absolute;
+width: 106px;
+height: 28px;
+left: 50px;
+top: 110px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+/* Grey shades/Hover grey */
+
+color: #515151;
+}
+
+.Tests1{
+    position: absolute;
+width: 49px;
+height: 28px;
+left: 300px;
+top: 110px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+/* Grey shades/Hover grey */
+
+color: #515151;
+}
+
+.Hw1{
+    position: absolute;
+width: 85px;
+height: 28px;
+left: 500px;
+top: 95px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+/* Grey shades/Hover grey */
+
+color: #515151;
+}
